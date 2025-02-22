@@ -1,2 +1,3 @@
-# learning_git_2
-learning_git_2
+# Learning_git_2
+
+This is a new repo.
